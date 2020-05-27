@@ -1,0 +1,4 @@
+name = "maskdomain"
+type = "javascript"
+account_id = "ccbc9926d08a298aee2a4f0cffcfc4a3"
+workers_dev = true
